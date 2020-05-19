@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             try
             {
+
                 Console.WriteLine("Enter line");
                 int resInt = 0;
                 string cell = Console.ReadLine();
